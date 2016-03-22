@@ -1,10 +1,12 @@
 {
   "name": "gapi-client",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sbuljac/gapi-client",
   "authors": [
     "sbuljac <sbuljac@gmail.com>"
   ],
   "description": "Google client library.",
-  "main": "client.js",
+  "main": ["client.js"],
   "moduleType": [
     "globals"
   ],
