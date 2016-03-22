@@ -1,0 +1,25 @@
+{
+  "name": "gapi-client",
+  "authors": [
+    "sbuljac <sbuljac@gmail.com>"
+  ],
+  "description": "Google client library.",
+  "main": "client.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "gapi",
+    "client",
+    "google"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
